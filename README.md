@@ -4,7 +4,7 @@
 
 I'm a _cadete_ (software engineering student) at [École 42 in São Paulo](https://www.42sp.org.br/) 🧑‍🚀
 
-I've worked with Java, Javascript, React, AdonisJS, PostgreSQL, AWS, Heroku, Docker.
+I've worked with Java, Javascript, Typescript, React, AdonisJS, PostgreSQL, AWS, Heroku, Docker.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Everton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
