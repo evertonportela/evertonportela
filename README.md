@@ -2,10 +2,9 @@
 
 ### Thanks for visiting! 😄
 
-I'm a _cadete_ (software engineering student) at [École 42 in São Paulo](https://www.42sp.org.br/) 🧑‍🚀
-and also FullStack developer at Trizy 🤓
-
-I've worked with C, Java, Javascript, Typescript, Docker, React, AdonisJS, PostgreSQL, Oracle, AWS.
+I currently work as a developer at @nstech.
+Not long ago, I was studying at 42 São Paulo🧑‍🚀 a degree in Software Engineering, you will find some projects here too.
+I have worked with some languages ​​and technologies such as: C, Java, Javascript, Typescript, Docker, React, AdonisJS, PostgreSQL, Oracle, AWS.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Everton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -21,12 +20,13 @@ I've worked with C, Java, Javascript, Typescript, Docker, React, AdonisJS, Postg
   <img align="center" alt="Everton-Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
+<br/>
+
+You can find more about me on my [Linkedin](https://linkedin.com/in/evertonportela), feel free to make connections.
+
 #
 
-And then with Management of Social Projects aimed at teaching Information Technology.
-I have been studying mainly C and dedicating myself fully to the École 42 specialization.
-
-I am an avid autodidact and have a variety of interests:
+Have a variety of interests:
 * 🎓 Bachelor in Information Systems
 * ✏️ I worked with project management
 * 📚 Social Projects and Education
@@ -34,8 +34,6 @@ I am an avid autodidact and have a variety of interests:
 * 🥁 Drums
 * 🦉 Owls
 * 🐾 Pet
-
-Are you also a 42 student? I have a repository that contains all the projects I've done, you can take a look here... [Be happy and spread the word](https://github.com/evertonportela/42sp_projects)
 
 <div style="text-align: center">
     <a href = "mailto:evertonportela0@gmail.com">
